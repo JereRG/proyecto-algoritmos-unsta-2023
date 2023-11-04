@@ -5,8 +5,8 @@ public class Main {
         Biblioteca biblioteca = new Biblioteca();
 
         // Libros 
-        Libro libro1 = new Libro("El Gran Gatsby", "F. Scott Fitzgerald", "Ficcion");
-        Libro libro2 = new Libro("1984", "George Orwell", "Ciencia Ficcion");
+        Libro libro1 = new Libro("Piensa y Hazte rico", "Napoleon Hill", "Motivacion");
+        Libro libro2 = new Libro("El poder de ahora", "Eckhart Tolle", "Motivacion");
         Libro libro3 = new Libro("Cien años de soledad", "Gabriel Garcia Marquez", "Realismo magico");
         Libro libro4 = new Libro("Harry Potter y la piedra filosofal", "J.K. Rowling", "Fantasia");
 
